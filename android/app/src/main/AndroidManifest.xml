@@ -2,7 +2,7 @@
     package="com.example.univeapk">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="univeapk"
+        android:label="Unive One"
        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
